@@ -1,15 +1,1 @@
-body{
-	font-family: "segoe ui";
-}
-h1{
-	text-align: center;
-}
-img{
-	width: 50;
-}
-.thongtin{
-	text-align: center;
-}
-menu{
-	text-decoration: none;
-}
+*{margin: 0; padding: 0;} 
